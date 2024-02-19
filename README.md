@@ -1,0 +1,2 @@
+---------- Topics Related to Excel Tutorial For Data Analysis --------
+1. Formaulas (avg,min,max,if,ifs,count,countif,countifs,sum,sumif,sumifs,left,right,concatinate,text,days,networkingdays and so on)
